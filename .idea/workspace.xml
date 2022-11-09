@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93f81eac-3115-488a-b658-d514ada3f161" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/uts.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uts.java" afterDir="false" />
-    </list>
+    <list default="true" id="93f81eac-3115-488a-b658-d514ada3f161" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +43,18 @@
       <option name="presentableId" value="Default" />
       <updated>1667978990426</updated>
     </task>
+    <task id="LOCAL-00001" summary="OKE">
+      <created>1667980708189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667980708189</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OKE" />
+    <option name="LAST_COMMIT_MESSAGE" value="OKE" />
   </component>
 </project>
