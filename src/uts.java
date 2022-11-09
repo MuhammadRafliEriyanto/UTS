@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class uts {
+public class uts {
+    public static void main(String[] args) {
+        
+    }
 }
